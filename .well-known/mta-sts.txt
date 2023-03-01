@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
-max_age: 604800
-mx: *.googlemail.com
-mx: *.aspmx.l.google.com
-mx: aspmx.l.google.com
+mx: ravensdalej-derby-sch-uk.mail.protection.outlook.com
+mx: mail.ravensdalej.derby.sch.uk
+mx: mail.mta-sts.ravensdalej.derby.sch.uk
+max_age: 86400
